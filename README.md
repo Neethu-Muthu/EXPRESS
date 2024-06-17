@@ -1,6 +1,5 @@
 # Express.js Middleware Example
 
-This repository contains an Express.js application demonstrating various middleware functionalities for different use cases.
 
 ## Features
 
